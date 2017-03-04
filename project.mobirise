@@ -14,7 +14,7 @@
     "google-analytics": "",
     "publishPath": "file:///C:/Users/user/Desktop/New%20folder%20(4)/Royal%20shaadi%20apps%20add/Puthuma%20softwares",
     "versionFirst": "3.10",
-    "uniqCompNum": 4,
+    "uniqCompNum": 16,
     "versionPublish": "3.10",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -31,19 +31,20 @@
       },
       "components": [
         {
+          "_inherit": "msg-box5",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-3",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-4",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "0",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#0275d8",
+            "bgColor": "#e7bf00",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -60,13 +61,13 @@
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/software-1400x660-60.jpg",
+              "src": "@PROJECT_PATH@/assets/images/software-1400x660-88.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -75,25 +76,429 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "link": "",
               "size": 0
             }
           },
           "title": "<b>Puthuma Softwares</b>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<b><i>Call For Demo: 9846104883</i></b>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "text": "<p><b><i>ERP Accounting Software &nbsp;<span style=\"font-size: 1.25rem; line-height: 1.5;\">With Sales Order Mobile App.</span></i></b></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\"><b><i>Institute Management Sofware With &nbsp;Mobile App.</i></b></span></p><p><span style=\"font-size: 1.25rem; line-height: 1.5;\"><b><i>Education ERP Software With Mobile App</i></b></span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"ERP#testimonials1-8\" data-toolbar=\"-mbrBtnMove\">More</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"ERP#features1-d\" data-toolbar=\"-mbrBtnMove\">Demo</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"ERP#pricing-table1-9\" data-toolbar=\"-mbrBtnMove\">Apply For Get Activation Key</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"ERP#contacts1-e\" data-toolbar=\"-mbrBtnMove\">Contact Us</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"ERP#form1-c\" data-toolbar=\"-mbrBtnMove\">Feed Back</a>",
           "_styles": {
+            ".lead": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "color": "#20384c",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "color": "#4e1111"
+            },
             ".mbr-section-title B": {
-              "color": "#0275d8",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "36px"
+            },
+            ".btn": {
+              "font-size": "13px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "items": [
+            {
+              "text": "<p><i><b>ERP ACCOUNTING</b> <b>SOFTWARE</b></i></p><p><i style=\"font-size: 1rem; line-height: 1.5;\">Suitable for more than 100 business cultures with excellent features</i></p><p><i style=\"font-size: 1rem; line-height: 1.5;\">A Complete Business ERP Software that caters to every need of modern day business tycoons. Designed to help you eliminate all the complexities in business automation like organizing your Financial Accounts, Powerful Inventory Control, Label Printing, Cheque Printing, Illustrative Log Book, Window Based / DOS Based Printing, With Inventory / Without Inventory Accounting, User-definable Optional Fields in Masters and Vouchers, Export Facility for each report to MS Word, Excel, PDF, Wordpad, HTML, SMS Plugin, Unlimited Fully Configurable Invoice Formats, Multi Company management, Intelligent Outstanding Analysis.</i></p><p><i style=\"font-size: 1rem; line-height: 1.5;\">This means you will not have to spend your valuable time sweating over details of any inventory related or accounting related issue. With “Business ERP”, you need to ensure the accuracy while keying in your invoices, thereafter all documents, reports and statements will be generated automatically. Provides upto date information at your fingertips, keeping you better informed, helping you make quicker business decisions.</i></p><i><b>YOU MAY BE &nbsp;DOING &nbsp;ANY BUSINESS</b></i><div>We Support It<br><p><i style=\"font-size: 1rem; line-height: 1.5;\">If you are running a super market, electronics shop, Mobile business, FMCG Agency, Computers Shop, Book Shop, Bakery, Electrical Goods business, Automobile Spare Parts Business, Pesticides / fertilizers / seeds store, kirana merchants, Patanjali Store, Grain Market Commission Agent, Any kind of manufacturer, trader, agency holder, distributor, wholesaler or retailer, this software is for you.</i></p></div>",
+              "authorName": "<a href=\"ERP#pricing-table1-9\">More.....</a>",
+              "authorBio": ""
+            },
+            {
+              "text": "<em>“First of all hands off to you guys for your effort and nice, super tool. Good work mobirise team. We are expecting the new version soon with advance functionality with full bootstrap design. Great effort and super UI experience with easy drag & drop with no time design bootstrap builder in present web design world.”</em>",
+              "authorName": "SUFFIAN A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<em>“At first view, looks like a nice innovative tool, i like the great focus and time that was given to the responsive design, i also like the simple and clear drag and drop features. Give me more control over the object's properties and ill be using this tool for more serious projects. Regards.”</em>",
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<em>“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</em>",
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p></p><div><i style=\"font-size: 1rem; line-height: 1.5; font-family: 'Open Sans Condensed', sans-serif;\"><b>ERP ACCOUNTING</b>&nbsp;<b>SOFTWARE with Order App</b></i></div><div><p><i style=\"font-size: 1rem; line-height: 1.5;\">A Complete Business ERP Software that caters to every need of modern day business tycoons. Designed to help you eliminate all the complexities in business automation like organizing your Financial Accounts, Powerful Inventory Control, Label Printing, Cheque Printing, Illustrative Log Book, Window Based / DOS Based Printing, With Inventory / Without Inventory Accounting, User-definable Optional Fields in Masters and Vouchers, Export Facility for each report to MS Word, Excel, PDF, Wordpad, HTML, SMS Plugin, Unlimited Fully Configurable Invoice Formats, Multi Company management, Intelligent Outstanding Analysis.</i><br></p><p><i style=\"font-size: 1rem; line-height: 1.5;\">This means you will not have to spend your valuable time sweating over details of any inventory related or accounting related issue. With “Business ERP”, you need to ensure the accuracy while keying in your invoices, thereafter all documents, reports and statements will be generated automatically. Provides upto date information at your fingertips, keeping you better informed, helping you make quicker business decisions.</i></p><i><b>YOU MAY BE &nbsp;DOING &nbsp;ANY BUSINESS</b></i></div>We Support It<div>If you are running a super market, electronics shop, Mobile business, FMCG Agency, Computers Shop, Book Shop, Bakery, Electrical Goods business, Automobile Spare Parts Business, Pesticides / fertilizers / seeds store, kirana merchants, Patanjali Store, Grain Market Commission Agent, Any kind of manufacturer, trader, agency holder, distributor, wholesaler or retailer, this software is for you.</div><div><div><p></p><p><i style=\"font-weight: bold;\">Financial Accounts: </i><i>Maintains all books of Accounts (Day Book, Ledger, Cash Book, Log Book, Collection Sheet, Payment / Receipt Registers, Profit &amp; Loss Account upto Balance Sheet), Bill-wise Outstanding with Due Date, Interest Calculation.</i></p><div><font face=\"Oswald, sans-serif\"><i style=\"font-weight: bold;\">Statutory Reports: </i><i>Depreciation Chart as Per Income Tax Act., Complete VAT Reports With E-Filing, Vat Registers and Summaries, Stock Summary report for Banks, C-Form, F-Form Issue Registers and receivables analysis, Bank Interest Rechecking.</i></font></div><div><font face=\"Oswald, sans-serif\"><i><br></i></font></div><div><font face=\"Oswald, sans-serif\"><b style=\"font-style: italic;\">Inventory: </b>Stock Status, Inventory Register, Stock Valuation on Multiple Methods, Group Wise, Item Wise, City Wise Summaries of Sales and Purchases.</font></div><div><font face=\"Oswald, sans-serif\"><br></font></div><div><font face=\"Oswald, sans-serif\"><i style=\"font-weight: bold;\">Billing : </i>User-Configurable Invoicing, Use Plain / Pre-printed Stationery , Use Fonts, Colors, Lines &amp; Logos , Option to Print Outer Box, Horizontal &amp; Vertical Lines, Print on any paper size A4, Letter, Legal, Slip Size, Postcard size or your own customized size.</font></div><div><font face=\"Oswald, sans-serif\"><b><i><br></i></b></font></div><div><font face=\"Oswald, sans-serif\"><b><i>Unique Features</i></b></font></div><div><font face=\"Oswald, sans-serif\">Call recorder module for service and enquiry handling, Import data from Tally and Busy, Replacement module , Schedule reminder . Fast Serial No.s tracking, 7 Days Auto Backup utility, Easy Bank Entry (No need to learn Journal and Contra entries), Profitability Analysis, Daily Analysis, Bill wise Collection Register. Print Barcode Labels. Print Customer Address Book, Partywise Discount &amp; Rates Setting</font></div><div><font face=\"Oswald, sans-serif\"><b><i><br></i></b></font></div><div><font face=\"Oswald, sans-serif\"><b><i>Protective &amp; Powerful</i></b></font></div><div><font face=\"Oswald, sans-serif\">Multi Company Accounting, Multiple Financial Years, Automatic Carrying of Accounts, Items and other administrative masters to next financial year, Multi User Environment, Password Protected with Configurable User Rights, Automatic 7 Days Backup Facility</font></div><div><font face=\"Oswald, sans-serif\"><br></font></div><div><font face=\"Oswald, sans-serif\"><b><i>Flexible</i></b></font></div><div><font face=\"Oswald, sans-serif\"><i>Flexible Stock Management, Flexible Pricing Structure, Multi Vat Invoicing, Option of Vat Inclusive / Exclusive Pricing, Flexible Voucher Numbering System, Flexible Price Structure, Import Accounts, Items, Purchase Invoices From Excel Sheets. Export Sales Invoice to Excel Sheet.</i></font></div><div><font face=\"Oswald, sans-serif\"><i>User Friendly Interface</i></font></div><div><font face=\"Oswald, sans-serif\"><i>Completely Codeless, Fully menu Driven, Shortcut Keys, Unique Methodology in every transaction,</i></font></div><div><font face=\"Oswald, sans-serif\"><b><i><br></i></b></font></div><div><font face=\"Oswald, sans-serif\"><b><i>No Need to Learn</i></b></font></div><div><font face=\"Oswald, sans-serif\"><i>Business ERP has been developed in the way that there is no </i>need to learn even the ABC of Computers or Accounts. Entry Screens are like Fill in the Blanks and user has to just input the data in boxes given. Even<i> a layman without any basic knowledge of Accounts or computers can operate it without any hassle.</i></font></div><div><font face=\"Oswald, sans-serif\"><i><br></i></font></div><div><font face=\"Oswald, sans-serif\"><i>Use Full</i></font></div><div><font face=\"Oswald, sans-serif\"><i>Supermarkets , Distributors, Wholesailers, Retailers, Etc......</i></font></div><p></p></div></div>",
+              "authorName": "<a href=\"ERP#features1-d\">Apply For Demo</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"ERP#pricing-table1-9\">Order Now!</a>",
+              "authorBio": ""
+            },
+            {
+              "text": "<p></p><div><p><b>Education ERP Software With Mobile App</b></p>fully integrated school management software introduced to simplify the complexities faced in daily school operations. Within no time, Mykid has reached millions of people and now it is been used by thousands of educational institutions all over the globe for all management, administration and finance related activities.</div>School is an organization where education is given to the students to make them capable for the battle of life and to make them learn on their own and teach one another.<div><font face=\"Alegreya Sans, sans-serif\">Prime duty of the teachers and staff members to plan and act for the welfare of the students. For this purpose, they need ample amount of time. If they get free from other work like data management especially if they are doing manually, they can think and work for the progress of students and school</font></div><div><font face=\"Alegreya Sans, sans-serif\">To fulfill this purpose, we have a software especially for school management which will save lot of time of teachers and other staff. In this software, we can plan our own fees structure, we can manage all the enquiries and admissions, generate fees reports and other necessary reports. We can manage library and all its functions in this software.</font><div><p></p><div><div><p><i><b>Salient Features</b></i></p><p><i>School Software Generates very valuable and forecasting reports like</i></p><p><i>Fees Due List</i></p><p><i>Demand Register</i></p><p><i>Defaulters List</i></p><p><i>Class Wise Fees</i></p><p><i>Collection Summary</i></p><p><i>Head Wise Summary</i></p><p><i>Fees Card</i></p><p><i>Fees Receipts Register and much more</i></p><p><i>Fully Secure Solution: Automatic Backup Facility</i></p><p><i>Self-Configurable User Permissions</i></p><p><i>Customizable Fee Slip Design, Use any Paper Size, Fonts</i></p><p><i>Logo, Colors, Preprinted Stationary to beautify your Fee</i></p><p><i>Slip Design</i></p><p><i>Implementation Time =30 Míns</i></p><p><i>Import Data From Excel</i></p><p><i>ID card Printing, Cheque Printing, Admission Form Print With Photo, Enquiry Management</i></p><p><i>All financial reports are ready at a single click</i></p><p><i>Windows based very attractive &amp; user friendly interface Developed keeping in mind a layman user.</i></p><p><i>No need to learn even the ABC of Accounts or computers</i></p><p><i>SMS Sending: Birthday Wish, Fees Receipt, Fees Reminders</i></p><p><i>Accounting Solution</i></p><p><i>Library management</i></p><p><i>School shop/ Stock management</i></p><p><i><b>&nbsp;Benefits</b></i></p><p>Save your valuable time</p><p>Very Easy To Implement.</p><p>No Need to write indicators for each student again and again</p><p>Increase your profitability and efficiency</p><p>Saves teachers time and workload by 90%</p><p>Uniformity in maintaining records.</p><p>Teacher can change or modify any student’s particulars on the spot.</p><p>Maintain record of Admission, Fees Transactio<span style=\"font-style: italic;\">ns and Route Wise Transport Charges</span></p><p><i>Very Easy To Implement.</i></p><p><i>Design Your own Fees Structure</i></p><p><i>Retain Privacy under high security user rights</i></p><p><i>No need to learn computers</i></p><p><i>Wish Birthday to Student as well as parents for better relationships</i></p><p><i>Increase your profitability and efficiency</i></p></div></div><p></p></div></div>",
+              "authorName": "<a href=\"ERP#features1-d\">Apply For Demo</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<a href=\"ERP#pricing-table1-9\">Order Now</a>!",
+              "authorBio": ""
+            },
+            {
+              "text": "<p><i><b>Institute Management Sofware With  Mobile App.</b></i></p><p>Software ERP. for Institute Management to maintain Enquiries, Admission, Fees, Course Master, Installment Management, Attendance, Accounts, Day Book, Ledger, Cash Book, Payments, Receipts, Cheque Printing, Easy Banking, Balance Sheet, Trial Balance, Profit/Loss, Trading Account, Multi Company, Bank reconciliation, Interest Calculation, Simple Sale / Purchase Vouchers, SMS Facility and much more. Everything that is important to computerize any institute.</p><p><b>Salient Features</b></p><p>School Software Generates very valuable and forecasting reports like</p><p>Fees Due List</p><p>Demand Register</p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Defaulters List</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Class Wise Fees</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Collection Summary</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Head Wise Summary</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Fees Card</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Fees Receipts Register and much more</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Fully Secure Solution: Automatic Backup Facility</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Self-Configurable User Permissions</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Customizable Fee Slip Design, Use any Paper Size, Fonts</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Logo, Colors, Preprinted Stationary to beautify your Fee</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Slip Design</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Implementation Time =30 Míns</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Import Data From Excel</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Enquiry Management</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">All financial reports are ready at a single click</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Windows based very attractive &amp; user friendly interface Developed keeping in mind a layman user.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">No need to learn even the ABC of Accounts or computers</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">SMS Sending: Birthday Wish, Fees Receipt, Fees Reminders</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Accounting Solution</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Library management</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">School shop/ Stock management</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>Benefits</b></span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Save your valuable time</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Very Easy To Implement.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">No Need to write indicators for each student again and again</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Increase your profitability and efficiency</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Saves teachers time and workload by 90%</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Uniformity in maintaining records.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Teacher can change or modify any student’s particulars on the spot.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Maintain record of Admission, Fees Transactions&nbsp;</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Very Easy To Implement.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Design Your own Fees Structure</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Retain Privacy under high security user rights</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">No need to learn computers</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Wish Birthday to Student as well as parents for better relationships</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">Increase your profitability and efficiency</span><br></p>",
+              "authorName": "<a href=\"ERP#content4-b\">Apply For Demo</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"ERP#pricing-table1-9\">Order Now!</a>",
+              "authorBio": ""
+            }
+          ],
+          "_anchor": "testimonials1-8",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#e1cfed",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "count": "3",
+            "showName": true,
+            "showBio": true
+          },
+          "header": "Puthuma Softwares",
+          "_styles": {
+            ".card-block P": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+            },
+            ".card-footer > div": {
+              "color": "#4e1111",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "14px"
+            },
+            ".mbr-section-title": {
+              "color": "#4e1111"
+            },
+            ".card-block B": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "15px"
+            },
+            ".card-block DIV": {
+              "font-family": "'Open Sans Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-9",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#FFF8E0",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "firstType": "bg-success",
+            "showButtons": true,
+            "secondType": "bg-warning",
+            "thirdType": "bg-danger",
+            "fourthType": "bg-primary"
+          },
+          "title1": "ERP ACCOUNTING SOFTWARE&nbsp;",
+          "currency1": "<b>Single &nbsp;User - &nbsp;Rs: 15,000</b>",
+          "price1": "",
+          "period1": "",
+          "list1": "<b style=\"font-size: 1rem; line-height: 1.5;\">Multi User - &nbsp;Rs: 18, 000</b><br><ul class=\"list-group list-group-flush\"><p><b>Mobile App - &nbsp;NiL</b></p><p><b>AMC &nbsp; Rs: 2500/-</b><br></p></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"ERP#features1-d\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy Now!</a>",
+          "title2": "ERP ACCOUNTING SOFTWARE with Order App",
+          "currency2": "<b>Single User - Rs: 18,000</b>",
+          "price2": "",
+          "period2": "",
+          "list2": "<ul class=\"list-group list-group-flush\"><b>Multi User - Rs: 21,000</b><br><li class=\"list-group-item\"><b><i>Mobile app: &nbsp; Unlimited </i></b>Users</li><li class=\"list-group-item\"><b>AMC &nbsp;Rs: 2500/-</b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"ERP#features1-d\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy Now!</a>",
+          "title3": "Education ERP Software With Mobile App",
+          "currency3": "<b>Single User - Rs: 18,000</b>",
+          "price3": "",
+          "period3": "",
+          "list3": "<p><b>Multi User - Rs: 21 ,000</b></p><p><ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>AMC &nbsp;Rs: 2500/-</b></li></ul></p>",
+          "button3": "<a data-app-btn=\"true\" href=\"ERP#features1-d\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy Now!</a>",
+          "title4": "Institute Management Sofware With Mobile App.",
+          "currency4": "",
+          "price4": "",
+          "period4": "",
+          "list4": "<ul class=\"list-group list-group-flush\"><p></p><li class=\"list-group-item\"><b>&nbsp;Single User - Rs: 12,500/-</b></li><li class=\"list-group-item\"><b>Multi User - Rs: 15 ,000/-</b></li><span style=\"font-size: 17px; line-height: 25px;\"><b>AMC - &nbsp;Rs: 2500/-</b></span><p></p></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"ERP#features1-d\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrBtnMove\">Buy Now!</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
-            ".lead I": {
-              "color": "#5a1513",
+            "UL": {
+              "text-align": "center"
+            },
+            "B": {
+              "font-size": "17px"
+            },
+            "DIV": {
+              "text-align": "center",
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-d",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#66b3f5",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": true,
+            "showCaptions": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/images-600x203-32.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title1": "<b>Call for get free Demo</b><br><b><br></b><br>Puthuma Enterprises<br>Koottanad, Palakkad Dt<br>Kerala 679 535<br>PH: 9846104883<br>Mail: salesputhuma@gmail.com",
+          "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/images-600x203-34.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title2": "Please Deposit cost of selected software then call to 9846104883<br><b>Bank Account Detail</b><br><b><br></b><b>Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;VINOD KUMAR CV</b><b><br></b><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bank name &nbsp; </b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;PUNJAB NATIONAL BANK<br>Account Number &nbsp; &nbsp; &nbsp; &nbsp; 4351000 <br>Brach Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Thirumittacode<br>IFSC Code &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;00000<b style=\"color: inherit;\">&nbsp; &nbsp; &nbsp;</b><br>",
+          "caption2": "One of Bootstrap 3's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-google-fonts.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title3": "Web Fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title4": "Unlimited Sites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
+          "_styles": {
+            "H4": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "17px"
+            },
+            "B": {
+              "font-size": "15px"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-c",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#1b7bcd",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true
+          },
+          "title": "Send Your Feed Back",
+          "form": {
+            "action": "salesputhuma@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!  We will touch with you later"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black-outline btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Submit</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "11px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-e",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#4f3d13",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "images/footer-logo.png",
+              "width": 265,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nPuthumaa Enterprises<br>\nKoottanad, Palakkad Dt<br>Kerala - 679535",
+          "text2": "<strong>Contacts</strong><br>\nEmail: salesputhuma@gmail.com<br>\nPhone: +1 (0) 9846104883<br>",
+          "text3": "<strong>Links</strong><ul>Business Offer<br><a href=\"http://royalshaadi.in\" target=\"_blank\">Free Franchisee Offer</a><br></ul>"
+        },
+        {
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgColor": "#26272c",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Puthumaa Enterprises.&nbsp;",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "13px"
             }
           }
         }
